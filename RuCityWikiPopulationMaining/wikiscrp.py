@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[6]:
-
-
 #Подгрузка библиотек:
 import requests
 import re
